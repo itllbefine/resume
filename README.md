@@ -1,1 +1,1 @@
-# resume
+This will eventually become the next iteration of my résumé. I'm interested in not only effectively communicating what I've learned about data science, software development, and coding, but actually showcasing some of it as well.
